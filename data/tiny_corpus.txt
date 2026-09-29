@@ -1,0 +1,47 @@
+the cat sat on the mat
+the dog ran in the park
+tokenizers split text into pieces
+byte pair encoding learns common pieces
+learning python and bpe together is fun
+hello world from the tokenizer lab
+merge the most common pairs first
+vocabulary grows one merge at a time
+encode text into numbers for models
+decode numbers back into readable text
+repeat words repeat words repeat words
+subword units help with rare words
+neural networks need fixed vocabulary sizes
+training reads a small corpus file
+each line is one sentence for practice
+characters become tokens through merging
+the quick brown fox jumps over the lazy dog
+pack my box with five dozen liquor jugs
+how vexingly quick daft zebras jump
+sphinx of black quartz judge my vow
+bpe is used in gpt and many llms
+start with bytes zero to two fifty five
+word level bpe uses end of word markers
+practice running python from the terminal
+open cursor edit a lesson and run it again
+count pairs count pairs count pairs
+frequency tells which merge comes next
+order of merges matters at encode time
+save merges to a text file in order
+save vocabulary as json token to id
+round trip means encode then decode matches
+emoji test coming later in byte mode
+simple english keeps the first lessons easy
+read the comments in each lesson file
+ask cursor when a line is confusing
+commit your progress to github over time
+machine learning starts with good data
+small data is enough to learn the algorithm
+big data is for production not this lab
+the end of each word gets a special marker
+pairs are two symbols side by side
+adjacent means right next to each other
+lists hold sequences in python
+dictionaries map keys to values
+loops repeat steps until a condition stops
+functions group reusable steps with names
+files store text on disk for training
